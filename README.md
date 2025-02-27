@@ -1,5 +1,5 @@
 ## Olá, Eu sou o Erick Kawan 🖐🏼
-#### Estou fazendo faculdade de engenharia de software no 4 semestre , sou bastante entusiasta para descobrir novas coisas e aprender novas habilidades , estou em constante evolução no mundo da tecnologia e aberto para receber novos conhecimentos, gosto de conversar com pessoas que são do mesmo nicho, aprendo bastante em cursos onlines e livros.
+#### Estou fazendo faculdade de engenharia de software no 5 periodo , sou bastante entusiasta para descobrir novas coisas e aprender novas habilidades , estou em constante evolução no mundo da tecnologia e aberto para receber novos conhecimentos, gosto de conversar com pessoas que são do mesmo nicho, aprendo bastante em cursos onlines e livros.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-kawan-02a298269/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kawan_erick/)
