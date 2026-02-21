@@ -18,11 +18,6 @@ Entrei no mundo da programação há **2 anos**, mas meu interesse por tecnologi
 
 ---
 
-### 📊 GitHub Stats
-![Erick Kawan GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickKawan&show_icons=true&theme=dark)
-
----
-
 ### 🚀 Tecnologias que utilizo no dia a dia
 <div style="display: inline_block"><br/>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
