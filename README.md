@@ -7,7 +7,7 @@
 Sou entusiasta em descobrir novas tecnologias, aprender novas habilidades e evoluir constantemente no mundo da programação.  
 Gosto de trocar ideias com pessoas da área, aprender com cursos online, livros e experiências práticas.
 
-Entrei no mundo da programação há **2 anos**, mas meu interesse por tecnologia vem desde pequeno.
+Entrei no mundo da programação há **3 anos**, mas meu interesse por tecnologia vem desde pequeno.
 
 ---
 
